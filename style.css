@@ -21,6 +21,7 @@ a {
 }
     a::after {
         content: "";
+        text-decoration: none;
         position: absolute;
         height: 2px;
         background-color: #00FFE0;
